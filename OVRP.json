@@ -1,0 +1,78 @@
+{
+  "title": "OVRP Ventilo-convecteur compact de plafond",
+  "images": [
+    "[Image de OVRP avec boîtier pour montage en surface]",
+    "[Image de OVRP Encastré]"
+  ],
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: blanc, amande.",
+        "Optionnelles (surcharge applicable): argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "120V, 240/208V, 347V, 1 phase."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Doit être utilisé avec un thermostat mural compatible (non inclus).",
+        "Relais électronique en option."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation au plafond seulement.",
+        "La sortie d'air doit être installée à une distance minimale de 10 po (25.4 cm) du mur.",
+        "S'encastre dans un plafond."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Vestibule, salle d'eau, salle à manger-cuisine, salle familiale, corridor."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles OVRP",
+      "headers": ["Watts min.", "Watts max.", "Volts", "# Produit", "Prix", "Longueur", "Poids"],
+      "rows": [
+        {"Watts min.": "750", "Watts max.": "1500", "Volts": "120", "# Produit": "OVRP1502", "Prix": "443.00", "Longueur": "11.5", "Poids": "5.22"},
+        {"Watts min.": "750/563", "Watts max.": "1500/1125", "Volts": "240/208", "# Produit": "OVRP1500", "Prix": "443.00", "Longueur": "11.5", "Poids": "5.22"},
+        {"Watts min.": "750/563", "Watts max.": "1500/1125", "Volts": "240/208", "# Produit": "OVRP1500BL-PW¹", "Prix": "358.00", "Longueur": "12.2", "Poids": "5.53"}
+      ]
+    },
+    {
+      "title": "Options",
+      "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+      "rows": [
+        {"# Produit En trousse": "DIS2", "# Produit Installée en usine*": "", "Prix": "118.00", "Description": "Interrupteur principal, 20A à 250V"},
+        {"# Produit En trousse": "R3", "# Produit Installée en usine*": "", "Prix": "81.00", "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V"},
+        {"# Produit En trousse": "RT3", "# Produit Installée en usine*": "", "Prix": "110.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 240V/24V, 22A à 208V, 240V"},
+        {"# Produit En trousse": "TRIAC3", "# Produit Installée en usine*": "", "Prix": "81.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 240V max."},
+        {"# Produit En trousse": "TRIACT3", "# Produit Installée en usine*": "", "Prix": "110.00", "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V max."}
+      ]
+    }
+  ]
+}
