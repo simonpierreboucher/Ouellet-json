@@ -1,0 +1,137 @@
+{
+  "title": "ODL Plinthe électrique haut de gamme",
+  "image": "[Image de la plinthe électrique haut de gamme]",
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: blanc, charcoal métallique.",
+        "Optionnelles (surcharge applicable): amande, argent étoilé, bronze, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Devant robuste en aluminium.",
+        "Boîtier en acier satiné de calibre 20.",
+        "Protection thermique linéaire à réenclenchement automatique.",
+        "Protection thermique pour la haute altitude (-HA) en option."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.",
+        "Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique."
+      ]
+    },
+    {
+      "heading": "Densité",
+      "details": [
+        "Densité moyenne standard de 275W/pi.",
+        "Basse densité moyenne de 200W/pi."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat intégré en option, avec bouton de contrôle ou anti-vandale.",
+        "Relais mécanique et électronique en option (installation du côté droit seulement).",
+        "Compartiment pour les raccords basse tension (situé directement sous la boîte de jonction) facilitant l'installation de relais à basse tension.",
+        "Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation en contact avec le plancher.",
+        "Boîtes de raccordement aux extrémités.",
+        "Serre-fils à une seule vis.",
+        "Canalisation de câblage approuvée pour interconnexion des appareils.",
+        "Deux rangés de trous de montage espacés de 2 po (51 mm) afin de faciliter la pose."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices.",
+        "Élément garanti à vie pour le premier utilisateur consommateur."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, baie vitrée, immeuble de bureaux, édifice commercial."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles à densité moyenne standard de 275W/pi",
+      "headers": ["Watts", "Watts 240/208V", "120V", "Prix", "208V", "240/208V", "347V", "600V", "Longueur¹", "Poids"],
+      "rows": [
+        {"Watts": "300", "Watts 240/208V": "300/225", "120V": "", "Prix": "272.00", "208V": "ODL0308", "240/208V": "ODL0300", "347V": "", "600V": "", "Longueur¹": "24 5/8", "Poids": "7.4"},
+        {"Watts": "500", "Watts 240/208V": "500/375", "120V": "", "Prix": "284.00", "208V": "ODL0508", "240/208V": "ODL0500", "347V": "ODL0507", "600V": "", "Longueur¹": "29 1/2", "Poids": "8.5"},
+        {"Watts": "750", "Watts 240/208V": "750/563", "120V": "", "Prix": "331.00", "208V": "ODL0758", "240/208V": "ODL0750", "347V": "ODL0757", "600V": "ODL0756", "Longueur¹": "39 1/2", "Poids": "10.7"},
+        {"Watts": "1000", "Watts 240/208V": "1000/750", "120V": "", "Prix": "384.00", "208V": "ODL1008", "240/208V": "ODL1000", "347V": "ODL1007", "600V": "ODL1006", "Longueur¹": "49 13/16", "Poids": "13.0"},
+        {"Watts": "1250", "Watts 240/208V": "1250/938", "120V": "", "Prix": "467.00", "208V": "ODL1258", "240/208V": "ODL1250", "347V": "ODL1257", "600V": "ODL1256", "Longueur¹": "59 1/4", "Poids": "15.1"},
+        {"Watts": "1500", "Watts 240/208V": "1500/1125", "120V": "", "Prix": "491.00", "208V": "ODL1508", "240/208V": "ODL1500", "347V": "ODL1507", "600V": "ODL1506", "Longueur¹": "68", "Poids": "17.0"},
+        {"Watts": "1750", "Watts 240/208V": "1750/1313", "120V": "", "Prix": "", "208V": "ODL1758", "240/208V": "ODL1750", "347V": "ODL1757", "600V": "ODL1756", "Longueur¹": "77 5/16", "Poids": "19.1"},
+        {"Watts": "2000", "Watts 240/208V": "2000/1500", "120V": "", "Prix": "", "208V": "ODL2008", "240/208V": "ODL2000", "347V": "ODL2007", "600V": "ODL2006", "Longueur¹": "86 1/8", "Poids": "21.0"},
+        {"Watts": "2250", "Watts 240/208V": "2250/1688", "120V": "", "Prix": "", "208V": "ODL2258", "240/208V": "ODL2250", "347V": "ODL2257", "600V": "ODL2256", "Longueur¹": "94 15/16", "Poids": "23.0"},
+        {"Watts": "2500", "Watts 240/208V": "2500/1875", "120V": "", "Prix": "", "208V": "ODL2508", "240/208V": "ODL2500", "347V": "ODL2507", "600V": "ODL2506", "Longueur¹": "104 1/16", "Poids": "25.0"}
+      ]
+    },
+    {
+      "title": "Modèles à basse densité moyenne de 200W/pi",
+      "headers": ["Watts", "Watts 240/208V", "120V", "Prix", "208V", "240/208V", "347V", "600V", "Longueur¹", "Poids"],
+      "rows": [
+        {"Watts": "300", "Watts 240/208V": "300/225", "120V": "", "Prix": "284.00", "208V": "ODL0308-750", "240/208V": "ODL0300-750", "347V": "", "600V": "", "Longueur¹": "29 1/2", "Poids": "8.5"},
+        {"Watts": "500", "Watts 240/208V": "500/375", "120V": "", "Prix": "331.00", "208V": "ODL0508-1004", "240/208V": "ODL0500-1004", "347V": "ODL0507-1004", "600V": "", "Longueur¹": "39 1/2", "Poids": "10.7"},
+        {"Watts": "750", "Watts 240/208V": "750/563", "120V": "", "Prix": "384.00", "208V": "ODL0758-1265", "240/208V": "ODL0750-1265", "347V": "ODL0757-1265", "600V": "ODL0756-1265", "Longueur¹": "49 13/16", "Poids": "13.0"},
+        {"Watts": "1000", "Watts 240/208V": "1000/750", "120V": "", "Prix": "467.00", "208V": "ODL1008-1506", "240/208V": "ODL1000-1506", "347V": "ODL1007-1506", "600V": "ODL1006-1506", "Longueur¹": "59 1/4", "Poids": "15.1"},
+        {"Watts": "1250", "Watts 240/208V": "1250/938", "120V": "", "Prix": "491.00", "208V": "ODL1258-1727", "240/208V": "ODL1250-1727", "347V": "ODL1257-1727", "600V": "", "Longueur¹": "68", "Poids": "17.0"},
+        {"Watts": "1500", "Watts 240/208V": "1500/1125", "120V": "", "Prix": "587.00", "208V": "ODL1508-2187", "240/208V": "ODL1500-2187", "347V": "ODL1507-2187", "600V": "ODL1506-2187", "Longueur¹": "86 1/8", "Poids": "21.0"},
+        {"Watts": "1750", "Watts 240/208V": "1750/1313", "120V": "", "Prix": "", "208V": "ODL1758-2412", "240/208V": "ODL1750-2412", "347V": "ODL1757-2412", "600V": "ODL1756-2412", "Longueur¹": "94 15/16", "Poids": "23.0"},
+        {"Watts": "2000", "Watts 240/208V": "2000/1500", "120V": "", "Prix": "", "208V": "ODL2008-2644", "240/208V": "ODL2000-2644", "347V": "ODL2007-2644", "600V": "ODL2006-2644", "Longueur¹": "104 1/16", "Poids": "23.0"},
+        {"Watts": "2250", "Watts 240/208V": "2250/1688", "120V": "", "Prix": "", "208V": "ODL2258-2644", "240/208V": "ODL2250-2644", "347V": "ODL2257-2644", "600V": "ODL2256-2644", "Longueur¹": "104 1/16", "Poids": "23.0"}
+      ]
+    },
+    {
+      "title": "Options",
+      "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+      "rows": [
+        {"# Produit En trousse": "KIT-ODL-DIS204", "# Produit Installée en usine*": "DIS204", "Prix": "170.00", "Description": "Interrupteur principal, bipolaire, 20A à 277V max."},
+        {"# Produit En trousse": "", "# Produit Installée en usine*": "HA", "Prix": "Sans frais", "Description": "Protection thermique pour la haute altitude (3000 pi à 8200 pi)"},
+        {"# Produit En trousse": "KIT-ODL-R-347", "# Produit Installée en usine*": "R", "Prix": "94.00", "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 18A à 347V"},
+        {"# Produit En trousse": "KIT-ODL-R-600", "# Produit Installée en usine*": "R", "Prix": "122.00", "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"},
+        {"# Produit En trousse": "KIT-ODL-RT-120", "# Produit Installée en usine*": "RT", "Prix": "167.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V"},
+        {"# Produit En trousse": "KIT-ODL-RT-208", "# Produit Installée en usine*": "RT", "Prix": "130.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"},
+        {"# Produit En trousse": "KIT-ODL-RT-240", "# Produit Installée en usine*": "RT", "Prix": "130.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"},
+        {"# Produit En trousse": "KIT-ODL-RT-277", "# Produit Installée en usine*": "RT", "Prix": "130.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"},
+        {"# Produit En trousse": "KIT-ODL-RT-347", "# Produit Installée en usine*": "RT", "Prix": "130.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"},
+        {"# Produit En trousse": "KIT-ODL-RT-6002", "# Produit Installée en usine*": "RT2", "Prix": "182.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V. 10A à 600V (2 fils seulement)"},
+        {"# Produit En trousse": "KIT-ODL-TB6", "# Produit Installée en usine*": "TB6", "Prix": "52.00", "Description": "Thermostat bimétallique, unipolaire: 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"},
+        {"# Produit En trousse": "KIT-ODL-TB263", "# Produit Installée en usine*": "TB263", "Prix": "59.00", "Description": "Thermostat bimétallique, bipolaire: 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"},
+        {"# Produit En trousse": "KIT-ODL-TB6-AV", "# Produit Installée en usine*": "TB6AV", "Prix": "90.00", "Description": "Thermostat bimétallique, unipolaire, anti-vandale: 25A à 120V, 208V, 240V, 277V-10A à 347V, 480V, 600V"},
+        {"# Produit En trousse": "KIT-ODL-TB26-AV3", "# Produit Installée en usine*": "TB26AV3", "Prix": "93.00", "Description": "Thermostat bimétallique, bipolaire, anti-vandale: 25A à 120V, 208V, 240V, 277V-10A à 347V, 480V, 600V"},
+        {"# Produit En trousse": "KIT-ODL-TRIAC-347", "# Produit Installée en usine*": "TRIAC", "Prix": "93.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."},
+        {"# Produit En trousse": "KIT-ODL-TRIAC-347T", "# Produit Installée en usine*": "TRIACT", "Prix": "124.00", "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 277V, 347V"},
+        {"# Produit En trousse": "KIT-ODL-TRIAC-600", "# Produit Installée en usine*": "TRIAC", "Prix": "167.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."}
+      ]
+    }
+  ]
+}
