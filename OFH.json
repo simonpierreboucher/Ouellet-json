@@ -1,0 +1,87 @@
+{
+  "title": "OFH Ventilo-convecteur de plancher",
+  "image": "[Image de OFH Ventilo-convecteur de plancher]",
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: bronze, blanc, amande.",
+        "Optionnelles (surcharge applicable): argent étoilé, charcoal métallique, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "120V, 240/208V, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Construction en acier soudé de calibre 20.",
+        "Grillage à lames robustes de calibre 14.",
+        "Grillage de protection empêchant les corps étrangers de pénétrer à l'intérieur de l'appareil.",
+        "Protection thermique à réenclenchement manuel pour plus de sécurité."
+      ]
+    },
+    {
+      "heading": "Ventilateur",
+      "details": [
+        "Ventilateur silencieux de 43.9 dBA à 80 pcm, à grand diamètre.",
+        "Moteur lubrifié à vie."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Élément tubulaire à ailettes très robuste."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Distance minimale des murs adjacents: 6 po (15.2 cm).",
+        "Vaste compartiment de câblage."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Porte patio, baie vitrée."
+      ]
+    },
+    {
+      "heading": "Note",
+      "details": [
+        "Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles",
+      "headers": ["Watts", "Volts", "# Produit", "Prix", "Poids"],
+      "rows": [
+        {"Watts": "500", "Volts": "120", "# Produit": "OFH0502", "Prix": "723.00", "Poids": "16.0"},
+        {"Watts": "1000", "Volts": "120", "# Produit": "OFH1002", "Prix": "746.00", "Poids": "16.0"},
+        {"Watts": "1500", "Volts": "120", "# Produit": "OFH1502", "Prix": "760.00", "Poids": "16.0"},
+        {"Watts": "500/375", "Volts": "240/208", "# Produit": "OFH0500", "Prix": "723.00", "Poids": "16.0"},
+        {"Watts": "1000/750", "Volts": "240/208", "# Produit": "OFH1000", "Prix": "746.00", "Poids": "16.0"},
+        {"Watts": "1500/1125", "Volts": "240/208", "# Produit": "OFH1500", "Prix": "760.00", "Poids": "16.0"}
+      ]
+    }
+  ]
+}
