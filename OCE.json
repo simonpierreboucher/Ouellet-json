@@ -1,0 +1,108 @@
+{
+  "title": "OCE Convecteur de style européen",
+  "images": [
+    "[Image de OCEH Amande]",
+    "[Image de OCEM Acier inoxydable]",
+    "[Image de OCEB Blanc]"
+  ],
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: blanc, amande.",
+        "Optionnelles (surcharge applicable): argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester.",
+        "Optionnelle: acier inoxydable (seulement les grilles sont peintes en noir)."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "240/208V, 50/60 Hz, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Acier de calibre 20 ou acier inoxydable de calibre 22.",
+        "Sortie d'air chaud à effet propulsif, qui dirige l'air vers le centre de la pièce.",
+        "Grilles à lames limitant l'insertion de petits objets, recouvertes d'une peinture à faible porosité lavable et anti-jaunissement.",
+        "Protection thermique à réenclenchement automatique."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Élément monobloc en aluminium, silencieux."
+      ]
+    },
+    {
+      "heading": "Densité",
+      "details": [
+        "OCEH: 850W/pi (2800W/m).",
+        "OCEM: 700W/pi (2320W/m).",
+        "OCEB: 500W/pi (1700W/m)."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat électronique intégré (modèle -TH) ou relais 24V électronique intégré (modèles -TRIAC et -TRIACT).",
+        "Thermostat électronique mural (modèles -OTH et -T600)."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation au mur à 2 po (51 mm) minimum du plancher.",
+        "Placer le convecteur sur le support mural pour le rendre fonctionnel.",
+        "Support mural du convecteur branché sur le circuit électrique, sert de bloc d'alimentation."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices.",
+        "(La garantie est valide seulement si l'appareil est contrôlé par un thermostat électronique pulsant proportionnel avec un cycle maximum de 15 secondes et que la boîte de jonction est fixée au mur avec l'ancrage fourni.)"
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, baie vitrée."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles",
+      "headers": ["Watts", "Volts", "# Produit Thermostat intégré¹", "# Produit Thermostat mural non programmable inclus²", "Prix Modèles standards", "# Produit Thermostat mural programmable inclus²", "Prix Modèles Acier inoxydable", "Longueur", "Poids"],
+      "rows": [
+        {"Watts": "500/375", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH0500-TH", "# Produit Thermostat mural non programmable inclus²": "ОСЕН0500-OTH", "Prix Modèles standards": "538.00", "# Produit Thermostat mural programmable inclus²": "OCEH0500-T600", "Prix Modèles Acier inoxydable": "659.00", "Longueur": "10 5/8", "Poids": "14.0"},
+        {"Watts": "750/563", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH0750-TH", "# Produit Thermostat mural non programmable inclus²": "OCEH0750-OTH", "Prix Modèles standards": "566.00", "# Produit Thermostat mural programmable inclus²": "OCEH0750-T600", "Prix Modèles Acier inoxydable": "694.00", "Longueur": "13 1/2", "Poids": "17.0"},
+        {"Watts": "1000/750", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH1000-TH", "# Produit Thermostat mural non programmable inclus²": "ОСЕН1000-OTH", "Prix Modèles standards": "597.00", "# Produit Thermostat mural programmable inclus²": "OCEH1000-T600", "Prix Modèles Acier inoxydable": "733.00", "Longueur": "16 1/2", "Poids": "19.0"},
+        {"Watts": "1250/938", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH1250-TH", "# Produit Thermostat mural non programmable inclus²": "OCEH1250-OTH", "Prix Modèles standards": "631.00", "# Produit Thermostat mural programmable inclus²": "OCEH1250-T600", "Prix Modèles Acier inoxydable": "775.00", "Longueur": "19 7/16", "Poids": "21.0"},
+        {"Watts": "1500/1125", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH1500-TH", "# Produit Thermostat mural non programmable inclus²": "OCEH1500-OTH", "Prix Modèles standards": "653.00", "# Produit Thermostat mural programmable inclus²": "OCEH1500-T600", "Prix Modèles Acier inoxydable": "803.00", "Longueur": "23", "Poids": "25.0"},
+        {"Watts": "1750/1313", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH1750-TH", "# Produit Thermostat mural non programmable inclus²": "OCEH1750-OTH", "Prix Modèles standards": "687.00", "# Produit Thermostat mural programmable inclus²": "OCEH1750-T600", "Prix Modèles Acier inoxydable": "845.00", "Longueur": "26 1/2", "Poids": "27.0"},
+        {"Watts": "2000/1500", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH2000-TH", "# Produit Thermostat mural non programmable inclus²": "OCEH2000-OTH", "Prix Modèles standards": "725.00", "# Produit Thermostat mural programmable inclus²": "OCEH2000-T600", "Prix Modèles Acier inoxydable": "893.00", "Longueur": "28 1/8", "Poids": "28.0"},
+        {"Watts": "2500/1875", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH2500-TH", "# Produit Thermostat mural non programmable inclus²": "OCEH2500-OTH", "Prix Modèles standards": "786.00", "# Produit Thermostat mural programmable inclus²": "OCEH2500-T600", "Prix Modèles Acier inoxydable": "969.00", "Longueur": "34", "Poids": "33.0"},
+        {"Watts": "3000/2250", "Volts": "240/208", "# Produit Thermostat intégré¹": "OCEH3000-TH", "# Produit Thermostat mural non programmable inclus²": "OCEH3000-OTH", "Prix Modèles standards": "845.00", "# Produit Thermostat mural programmable inclus²": "OCEH3000-T600", "Prix Modèles Acier inoxydable": "1043.00", "Longueur": "41 1/8", "Poids": "39.0"}
+      ]
+    },
+    {
+      "title": "Options",
+      "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+      "rows": [
+        {"# Produit En trousse": "KIT-OCE-AV", "# Produit Installée en usine*": "", "Prix": "11.00", "Description": "Dispositif anti-vandale"},
+        {"# Produit En trousse": "KIT-OCE-TRIAC-3473", "# Produit Installée en usine*": "TRIAC3", "Prix": "65.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."},
+        {"# Produit En trousse": "KIT-OCE-TRIAC-347T3", "# Produit Installée en usine*": "TRIACT3", "Prix": "94.00", "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V"}
+      ]
+    }
+  ]
+}
