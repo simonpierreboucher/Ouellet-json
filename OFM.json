@@ -1,0 +1,151 @@
+{
+  "title": "OFM Plinthe électrique standard",
+  "image": "[Image de la plinthe électrique]",
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: blanc, amande.",
+        "Optionnelles (surcharge applicable): argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesures disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester.",
+        "Peut accepter toute peinture intérieure."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Boîtier de raccord en acier de calibre 20.",
+        "Corps en acier de calibre 22.",
+        "Devant en acier de calibre 20.",
+        "Coins supérieurs arrondis.",
+        "Protection thermique linéaire à réenclenchement automatique."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.",
+        "Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique."
+      ]
+    },
+    {
+      "heading": "Densité",
+      "details": [
+        "Densité moyenne standard de 275W/pi.",
+        "Basse densité moyenne de 200W/pi."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat intégré mécanique en option pouvant être installé aux deux extrémités.",
+        "Section de plinthe avec thermostat électronique intégré pouvant être installée du côté gauche seulement (240V seulement).",
+        "Thermostat intégré électronique en option pouvant être installé du côté droit seulement. Compatible avec les appareils fabriqués après 14-10-2019 seulement.",
+        "Relais 24V en option (installation du côté droit seulement).",
+        "Un compartiment pour les raccords basse tension (situé directement sous la boîte de jonction) qui facilite l'installation de relais à basse tension dans les plinthes électriques.",
+        "Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation en contact avec le plancher.",
+        "Boîtes de raccordement aux extrémités des plinthes.",
+        "Serre-fils à une seule vis.",
+        "Trousse pour installation d'un câble électrique de type AC90 (BX) en option.",
+        "Canalisation de câblage approuvé pour interconnexion des appareils.",
+        "Deux rangés de trous de montage espacés de 1 po (25.4 mm) afin de faciliter la pose.",
+        "Variété d'accessoires pour l'installation en continu en option."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices.",
+        "Élément garanti à vie pour le premier utilisateur consommateur."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, baie vitrée, édifice commercial, immeuble de bureaux, condo, restaurant."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles à densité moyenne standard de 275W/pi",
+      "headers": ["Watts", "Watts 240/208V", "120V", "# Produit", "Prix", "208V", "240/208V", "347V", "600V", "Longueur", "Poids"],
+      "rows": [
+        {"Watts": "300", "Watts 240/208V": "300/225", "120V": "", "# Produit": "OFM0302", "Prix": "102.50", "208V": "OFM0308", "240/208V": "OFM0300", "347V": "", "600V": "", "Longueur": "22 5/16", "Poids": "4.5"},
+        {"Watts": "500", "Watts 240/208V": "500/375", "120V": "", "# Produit": "OFM0502", "Prix": "108.25", "208V": "OFM0508", "240/208V": "OFM0500", "347V": "OFM0507", "600V": "", "Longueur": "27 3/16", "Poids": "5.5"},
+        {"Watts": "750", "Watts 240/208V": "750/563", "120V": "", "# Produit": "OFM0752", "Prix": "125.75", "208V": "OFM0758", "240/208V": "OFM0750", "347V": "OFM0757", "600V": "OFM0756", "Longueur": "37 3/16", "Poids": "7.3"},
+        {"Watts": "1000", "Watts 240/208V": "1000/750", "120V": "", "# Produit": "OFM1002", "Prix": "145.75", "208V": "OFM1008", "240/208V": "OFM1000", "347V": "OFM1007", "600V": "OFM1006", "Longueur": "47 1/2", "Poids": "9.0"},
+        {"Watts": "1250", "Watts 240/208V": "1250/938", "120V": "", "# Produit": "OFM1252", "Prix": "178.00", "208V": "OFM1258", "240/208V": "OFM1250", "347V": "OFM1257", "600V": "OFM1256", "Longueur": "57", "Poids": "10.5"},
+        {"Watts": "1500", "Watts 240/208V": "1500/1125", "120V": "", "# Produit": "OFM1502", "Prix": "187.00", "208V": "OFM1508", "240/208V": "OFM1500", "347V": "OFM1507", "600V": "OFM1506", "Longueur": "65 11/16", "Poids": "12.0"},
+        {"Watts": "1750", "Watts 240/208V": "1750/1313", "120V": "", "# Produit": "", "Prix": "", "208V": "OFM1758", "240/208V": "OFM1750", "347V": "OFM1757", "600V": "OFM1756", "Longueur": "75", "Poids": "13.5"},
+        {"Watts": "2000", "Watts 240/208V": "2000/1500", "120V": "", "# Produit": "", "Prix": "", "208V": "OFM2008", "240/208V": "OFM2000", "347V": "OFM2007", "600V": "OFM2006", "Longueur": "83 13/16", "Poids": "15.0"},
+        {"Watts": "2250", "Watts 240/208V": "2250/1688", "120V": "", "# Produit": "", "Prix": "", "208V": "OFM2258", "240/208V": "OFM2250", "347V": "OFM2257", "600V": "OFM2256", "Longueur": "92 5/8", "Poids": "16.5"},
+        {"Watts": "2500", "Watts 240/208V": "2500/1875", "120V": "", "# Produit": "", "Prix": "", "208V": "OFM2508", "240/208V": "OFM2500", "347V": "OFM2507", "600V": "OFM2506", "Longueur": "101 13/16", "Poids": "18.0"}
+      ]
+    },
+    {
+      "title": "Modèles à basse densité moyenne de 200W/pi",
+      "headers": ["Watts", "Watts 240/208V", "120V", "# Produit", "Prix", "208V", "240/208V", "347V", "600V", "Longueur", "Poids"],
+      "rows": [
+        {"Watts": "300", "Watts 240/208V": "300/225", "120V": "", "# Produit": "OFM0302-691", "Prix": "108.25", "208V": "OFM0308-691", "240/208V": "OFM0300-691", "347V": "", "600V": "", "Longueur": "27 3/16", "Poids": "5.5"},
+        {"Watts": "500", "Watts 240/208V": "500/375", "120V": "", "# Produit": "OFM0502-945", "Prix": "125.75", "208V": "OFM0508-945", "240/208V": "OFM0500-945", "347V": "OFM0507-945", "600V": "", "Longueur": "37 3/16", "Poids": "7.3"},
+        {"Watts": "750", "Watts 240/208V": "750/563", "120V": "", "# Produit": "OFM0752-1206", "Prix": "145.75", "208V": "OFM0758-1206", "240/208V": "OFM0750-1206", "347V": "OFM0757-1206", "600V": "OFM0756-1206", "Longueur": "47 1/2", "Poids": "9.0"},
+        {"Watts": "1000", "Watts 240/208V": "1000/750", "120V": "", "# Produit": "OFM1002-1447", "Prix": "178.00", "208V": "OFM1008-1447", "240/208V": "OFM1000-1447", "347V": "OFM1007-1447", "600V": "OFM1006-1447", "Longueur": "57", "Poids": "10.5"},
+        {"Watts": "1250", "Watts 240/208V": "1250/938", "120V": "", "# Produit": "OFM1252-1668", "Prix": "187.00", "208V": "OFM1258-1668", "240/208V": "OFM1250-1668", "347V": "OFM1257-1668", "600V": "OFM1256-1668", "Longueur": "65 11/16", "Poids": "12.0"},
+        {"Watts": "1500", "Watts 240/208V": "1500/1125", "120V": "", "# Produit": "OFM1502-2128", "Prix": "223.75", "208V": "OFM1508-2128", "240/208V": "OFM1500-2128", "347V": "OFM1507-2128", "600V": "OFM1506-2128", "Longueur": "83 13/16", "Poids": "15.0"},
+        {"Watts": "1750", "Watts 240/208V": "1750/1313", "120V": "", "# Produit": "", "Prix": "", "208V": "OFM1758-2353", "240/208V": "OFM1750-2353", "347V": "OFM1757-2353", "600V": "OFM1756-2353", "Longueur": "92 5/8", "Poids": "16.5"},
+        {"Watts": "2000", "Watts 240/208V": "2000/1500", "120V": "", "# Produit": "", "Prix": "", "208V": "OFM2008-2585", "240/208V": "OFM2000-2585", "347V": "OFM2007-2585", "600V": "OFM2006-2585", "Longueur": "101 13/16", "Poids": "18.0"},
+        {"Watts": "2250", "Watts 240/208V": "2250/1688", "120V": "", "# Produit": "", "Prix": "", "208V": "OFM2258-2585", "240/208V": "OFM2250-2585", "347V": "OFM2257-2585", "600V": "OFM2256-2585", "Longueur": "101 13/16", "Poids": "18.0"}
+      ]
+    },
+    {
+      "title": "Options",
+      "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+      "rows": [
+        {"# Produit En trousse": "KIT-OFM-CI", "# Produit Installée en usine*": "", "Prix": "113.25", "Description": "Boîte de coins (intérieur et extérieur)"},
+        {"# Produit En trousse": "KIT-OFM-DIS20", "# Produit Installée en usine*": "DIS20", "Prix": "175.50", "Description": "Interrupteur principal, bipolaire, 20A à 250V max."},
+        {"# Produit En trousse": "KIT-OFM-JT", "# Produit Installée en usine*": "", "Prix": "52.75", "Description": "Joint de finition 3 9/16 po (90 mm)"},
+        {"# Produit En trousse": "KIT-OFM-RO1", "# Produit Installée en usine*": "", "Prix": "89.25", "Description": "Section de plinthe 6 po (152 mm) - Prise de type 5-15R en façade - 15A à 120V"},
+        {"# Produit En trousse": "KIT-OFM-RO2", "# Produit Installée en usine*": "", "Prix": "303.00", "Description": "Section de plinthe 6 po (152 mm) - Dériveur d'alimentation 240V vers prise type 6-20R en façade (interrupteur 20A, bipolaire, bidirectionnel)"},
+        {"# Produit En trousse": "KIT-OFM-RO2B", "# Produit Installée en usine*": "", "Prix": "245.50", "Description": "Section de plinthe 6 po (152 mm) - Prise de type 6-20R en façade - 240V"},
+        {"# Produit En trousse": "KIT-OFM-R-347", "# Produit Installée en usine*": "R", "Prix": "94.25", "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 18A à 347V"},
+        {"# Produit En trousse": "KIT-OFM-R-600", "# Produit Installée en usine*": "R", "Prix": "128.00", "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"},
+        {"# Produit En trousse": "KIT-OFM-RT-120", "# Produit Installée en usine*": "RT", "Prix": "159.25", "Description": "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V"},
+        {"# Produit En trousse": "KIT-OFM-RT-208", "# Produit Installée en usine*": "RT", "Prix": "132.75", "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"},
+        {"# Produit En trousse": "KIT-OFM-RT-240", "# Produit Installée en usine*": "RT", "Prix": "132.75", "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"},
+        {"# Produit En trousse": "KIT-OFM-RT-277", "# Produit Installée en usine*": "RT", "Prix": "132.75", "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"},
+        {"# Produit En trousse": "KIT-OFM-RT-347", "# Produit Installée en usine*": "RT", "Prix": "132.75", "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"},
+        {"# Produit En trousse": "KIT-OFM-RT-6003", "# Produit Installée en usine*": "RT3", "Prix": "191.25", "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)"},
+        {"# Produit En trousse": "KIT-OFM-240SPLITTER", "# Produit Installée en usine*": "", "Prix": "131.75", "Description": "Section de plinthe 6 po (152 mm) - Dériveur d'alimentation 240V pour brancher un autre appareil de façon permanente (interrupteur 20A, bipolaire, bidirectionnel)"},
+        {"# Produit En trousse": "KIT-OFM-THA5", "# Produit Installée en usine*": "THACD5", "Prix": "49.25", "Description": "Thermostat électronique avec bouton rotatif ultraprécis pour installation à droite seulement: 12.5A à 120V, 208V, 240V"},
+        {"# Produit En trousse": "", "# Produit Installée en usine*": "THCG4", "Prix": "194.50", "Description": "Section de plinthe 6 po (152 mm) avec thermostat électronique intégré (240V seulement), installée du côté gauche"},
+        {"# Produit En trousse": "KIT-OFM-SR", "# Produit Installée en usine*": "", "Prix": "95.00", "Description": "Section de plinthe 6 po (152 mm) pour installation d'un relais 24V (relais non inclus)"},
+        {"# Produit En trousse": "KIT-OFM-TB6", "# Produit Installée en usine*": "TB6", "Prix": "50.75", "Description": "Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"},
+        {"# Produit En trousse": "KIT-OFM-TB262", "# Produit Installée en usine*": "TB262", "Prix": "61.00", "Description": "Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"},
+        {"# Produit En trousse": "KIT-OFM-TB6-AV", "# Produit Installée en usine*": "TB6AV", "Prix": "90.75", "Description": "Thermostat bimétallique, unipolaire, anti-vandale: 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"},
+        {"# Produit En trousse": "KIT-OFM-TB26-AV2", "# Produit Installée en usine*": "TB26AV2", "Prix": "93.50", "Description": "Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"},
+        {"# Produit En trousse": "KIT-OFM-TRIAC-347", "# Produit Installée en usine*": "TRIAC", "Prix": "93.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."},
+        {"# Produit En trousse": "KIT-OFM-TRIAC-347T", "# Produit Installée en usine*": "TRIACT", "Prix": "131.00", "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 277V, 347V"},
+        {"# Produit En trousse": "KIT-OFM-TRIAC-600", "# Produit Installée en usine*": "TRIAC", "Prix": "170.75", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."}
+      ]
+    }
+  ]
+}
