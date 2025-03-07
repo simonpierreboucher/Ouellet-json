@@ -1,0 +1,97 @@
+{
+  "title": "ORC Appareil rayonnant",
+  "images": [
+    "[Image de ORC]",
+    "[Image de détail 1]",
+    "[Image de détail 2]",
+    "[Image de détail 3]"
+  ],
+  "features": [
+    {
+      "heading": "Couleur et finition",
+      "details": [
+        "Standards: blanc biscotti, noir mat et fini aluminium anodisé."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "120V, 208V, 240V, 277V, 347V, 480V, 600V 50/60 Hz."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Devant fabriqué d'une extrusion d'aluminium afin d'accroître la surface de radiation.",
+        "Dos de l'appareil en acier de calibre 18.",
+        "Boîte de jonction à chaque extrémité.",
+        "Supports de fixation murale (fournis) qui ne requièrent pas l'ouverture du boîtier. KOE 7/8 po (22 mm) pour l'installation de câblage BX.",
+        "Fil de mise à la terre de 4 po (102 mm) à chaque extrémité.",
+        "Canalisation de câblage approuvé pour interconnexion des appareils en utilisant le câblage installé en usine (lors d'une installation mur à mur).",
+        "Peinture haute émissivité appliquée sur l'échangeur afin d'augmenter l'efficacité."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Élément tubulaire en acier inoxydable inséré dans une extrusion d'aluminium afin de prévenir le bruit lors de l'expansion thermique."
+      ]
+    },
+    {
+      "heading": "Densité",
+      "details": [
+        "150W/pi."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat intégré en option unipolaire ou bipolaire.",
+        "Ouellet recommande fortement l'utilisation d'un thermostat électronique mural pour un meilleur confort."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation au mur à 6 pi (1.83 m) minimum du plancher et 4 1/2 po (114mm) minimum du plafond.",
+        "Variété d'accessoires pour l'installation en continu en option."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "10 ans contre tous vices."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Vestibule, salle d'eau, salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, porte patio, baie vitrée, garderie, atelier."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles",
+      "headers": ["Watts", "# Produit 120V", "# Produit 208V", "# Produit 240V", "Prix", "# Produit 347V", "# Produit 600V", "Prix", "Longueur", "Poids"],
+      "rows": [
+        {"Watts": "450", "# Produit 120V": "ORC0452", "# Produit 208V": "ORC0458", "# Produit 240V": "ORC0450", "Prix": "309.00", "# Produit 347V": "ORC0457", "# Produit 600V": "", "Prix": "351.00", "Longueur": "34", "Poids": "6.0"},
+        {"Watts": "600", "# Produit 120V": "ORC0602", "# Produit 208V": "ORC0608", "# Produit 240V": "ORC0600", "Prix": "404.00", "# Produit 347V": "ORC0607", "# Produit 600V": "", "Prix": "", "Longueur": "47", "Poids": "8.0"},
+        {"Watts": "750", "# Produit 120V": "ORC0752", "# Produit 208V": "ORC0758", "# Produit 240V": "ORC0750", "Prix": "473.00", "# Produit 347V": "ORC0757", "# Produit 600V": "ORC0756", "Prix": "547.00", "Longueur": "59", "Poids": "10.0"},
+        {"Watts": "900", "# Produit 120V": "ORC0902", "# Produit 208V": "ORC0908", "# Produit 240V": "ORC0900", "Prix": "531.00", "# Produit 347V": "ORC0907", "# Produit 600V": "ORC0906", "Prix": "612.00", "Longueur": "71", "Poids": "12.0"},
+        {"Watts": "1050", "# Produit 120V": "ORC1052", "# Produit 208V": "ORC1058", "# Produit 240V": "ORC1050", "Prix": "567.00", "# Produit 347V": "ORC1057", "# Produit 600V": "ORC1056", "Prix": "655.00", "Longueur": "83", "Poids": "13.0"},
+        {"Watts": "1200", "# Produit 120V": "ORC1202", "# Produit 208V": "ORC1208", "# Produit 240V": "ORC1200", "Prix": "651.00", "# Produit 347V": "ORC1207", "# Produit 600V": "ORC1206", "Prix": "747.00", "Longueur": "94", "Poids": "15.0"},
+        {"Watts": "15001", "# Produit 120V": "ORC1502", "# Produit 208V": "ORC1508", "# Produit 240V": "ORC1500", "Prix": "806.00", "# Produit 347V": "ORC1507", "# Produit 600V": "ORC1506", "Prix": "930.00", "Longueur": "113", "Poids": "18.0"}
+      ]
+    },
+    {
+      "title": "Options",
+      "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+      "rows": [
+        {"# Produit En trousse": "KIT-ORC-JT", "# Produit Installée en usine*": "", "Prix": "47.00", "Description": "Joint de finition"},
+        {"# Produit En trousse": "KIT-ORC-TB62", "# Produit Installée en usine*": "TB62", "Prix": "110.00", "Description": "Thermostat bimétallique, unipolaire"},
+        {"# Produit En trousse": "KIT-ORC-TB262,3", "# Produit Installée en usine*": "TB262,3", "Prix": "136.00", "Description": "Thermostat bimétallique, bipolaire"}
+      ]
+    }
+  ]
+}
