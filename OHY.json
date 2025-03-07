@@ -1,0 +1,100 @@
+{
+  "title": "OHY Combiné convection et air forcé",
+  "images": [
+    "[Image de OHY En surface]",
+    "[Image de OHY Encastré]",
+    "[Image de détail 1]",
+    "[Image de détail 2]",
+    "[Image de détail 3]"
+  ],
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: blanc, amande.",
+        "Optionnelles (surcharge applicable): argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "240V, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Devant en aluminium moulé.",
+        "Grilles en acier limitant l'insertion de petits objets, recouvertes d'une peinture à faible porosité lavable et anti-jaunissement.",
+        "Protection thermique à réenclenchement automatique.",
+        "Veilleuse à diodes intégrée de couleur blanche."
+      ]
+    },
+    {
+      "heading": "Ventilateur",
+      "details": [
+        "Ventilateur à cage d'écureuil ultra silencieux.",
+        "Moteur lubrifié à vie."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Fil hélicoïdal en alliage nickel-chrome protégé par des isolateurs en céramique.",
+        "Élément produisant une chaleur instantanée."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat/minuterie digital électronique intégré.",
+        "Thermostat électronique pulsant permettant de passer automatiquement du mode convection au mode ventilation à 1000W.",
+        "Minuterie électronique, 5-30 minutes pour une pleine puissance."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation au mur à 4 po (102 mm) minimum du plancher.",
+        "Montage en surface ou encastré dans une structure de mur en 2 po X 3 po.",
+        "Trous de montage afin de faciliter la pose.",
+        "Grande boîte de jonction."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Vestibule, salle d'eau, salle à manger-cuisine, salle de séjour, salle familiale, corridor."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèle",
+      "headers": ["Watts", "Volts", "# Produit", "Prix", "Poids"],
+      "rows": [
+        {"Watts": "2000¹", "Volts": "240", "# Produit": "OHY2000-TH¹", "Prix": "796.00", "Poids": "22.75"}
+      ]
+    },
+    {
+      "title": "Option",
+      "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+      "rows": [
+        {"# Produit En trousse": "KIT-OHY-DIS2", "# Produit Installée en usine*": "DIS2", "Prix": "115.00", "Description": "Interrupteur principal, 20A à 250V"}
+      ]
+    }
+  ]
+}
