@@ -1,0 +1,109 @@
+{
+  "title": "ONC Convecteur standard",
+  "image": "[Image du ONC Convecteur standard]",
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standard: blanc.",
+        "Optionnelles (surcharge applicable): amande, argent étoilé, bronze, noir semi-lustré, aluminium, charcoal métallique, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 60 Hz, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Acier de calibre 20.",
+        "Sortie d'air chaud à effet propulsif, qui dirige l'air vers le centre de la pièce.",
+        "Grilles à louvres limitant l'insertion de petits objets.",
+        "Protection thermique à réenclenchement automatique."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "2 éléments tubulaires en acier inoxydable recouverts d'ailettes en aluminium.",
+        "Éléments flottant sur supports de nylon haute température réduisant tout bruit causé par son expansion thermique."
+      ]
+    },
+    {
+      "heading": "Densité",
+      "details": [
+        "700W/pi (2320W/m)."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat électronique non programmable intégré pour les modèles de 120V à 240V (modèles -TH).",
+        "Thermostat mural (non inclus)."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation au mur à 4 po (102 mm) minimum du plancher et d'un mur adjacent.",
+        "Montage en surface rapide avec support mural de fixation inclus."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, sous-sol."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles",
+      "headers": ["Volts", "Watts", "# Produit Sans thermostat", "Prix", "# Produit Thermostat intégré", "Prix", "Longueur", "Poids"],
+      "rows": [
+        {"Volts": "120", "Watts": "500", "# Produit Sans thermostat": "ONC0502BL", "Prix": "173.00", "# Produit Thermostat intégré": "ONC0502BL-TH", "Prix": "238.00", "Longueur": "18", "Poids": "13"},
+        {"Volts": "120", "Watts": "1000", "# Produit Sans thermostat": "ONC1002BL", "Prix": "222.00", "# Produit Thermostat intégré": "ONC1002BL-TH", "Prix": "287.00", "Longueur": "23 9/16", "Poids": "16.7"},
+        {"Volts": "120", "Watts": "1500", "# Produit Sans thermostat": "ONC1502BL", "Prix": "250.00", "# Produit Thermostat intégré": "ONC1502BL-TH", "Prix": "315.00", "Longueur": "29 1/16", "Poids": "20"},
+        {"Volts": "208", "Watts": "500", "# Produit Sans thermostat": "ONC0508BL", "Prix": "173.00", "# Produit Thermostat intégré": "ONC0508BL-TH", "Prix": "238.00", "Longueur": "18", "Poids": "13"},
+        {"Volts": "208", "Watts": "1000", "# Produit Sans thermostat": "ONC1008BL", "Prix": "222.00", "# Produit Thermostat intégré": "ONC1008BL-TH", "Prix": "287.00", "Longueur": "23 9/16", "Poids": "16.7"},
+        {"Volts": "208", "Watts": "1500", "# Produit Sans thermostat": "ONC1508BL", "Prix": "250.00", "# Produit Thermostat intégré": "ONC1508BL-TH", "Prix": "315.00", "Longueur": "29 1/16", "Poids": "20"},
+        {"Volts": "208", "Watts": "2000", "# Produit Sans thermostat": "ONC2008BL", "Prix": "288.00", "# Produit Thermostat intégré": "ONC2008BL-TH", "Prix": "353.00", "Longueur": "34 5/8", "Poids": "24"},
+        {"Volts": "240/208", "Watts": "500/375", "# Produit Sans thermostat": "ONC0500BL", "Prix": "188.00", "# Produit Thermostat intégré": "ONC0500BL-TH", "Prix": "253.00", "Longueur": "18", "Poids": "13"},
+        {"Volts": "240/208", "Watts": "1000/750", "# Produit Sans thermostat": "ONC1000BL", "Prix": "208.00", "# Produit Thermostat intégré": "ONC1000BL-TH", "Prix": "273.00", "Longueur": "23 9/16", "Poids": "16.7"},
+        {"Volts": "240/208", "Watts": "1500/1125", "# Produit Sans thermostat": "ONC1500BL", "Prix": "238.00", "# Produit Thermostat intégré": "ONC1500BL-TH", "Prix": "303.00", "Longueur": "29 1/16", "Poids": "20"},
+        {"Volts": "240/208", "Watts": "2000/1500", "# Produit Sans thermostat": "ONC2000BL", "Prix": "273.00", "# Produit Thermostat intégré": "ONC2000BL-TH", "Prix": "338.00", "Longueur": "34 5/8", "Poids": "24"},
+        {"Volts": "347", "Watts": "500", "# Produit Sans thermostat": "ONC0507BL", "Prix": "221.00", "# Produit Thermostat intégré": "", "Prix": "", "Longueur": "18", "Poids": "13"},
+        {"Volts": "347", "Watts": "1000", "# Produit Sans thermostat": "ONC1007BL", "Prix": "271.00", "# Produit Thermostat intégré": "", "Prix": "", "Longueur": "23 9/16", "Poids": "16.7"},
+        {"Volts": "347", "Watts": "1500", "# Produit Sans thermostat": "ONC1507BL", "Prix": "299.00", "# Produit Thermostat intégré": "", "Prix": "", "Longueur": "29 1/16", "Poids": "20"},
+        {"Volts": "347", "Watts": "2000", "# Produit Sans thermostat": "ONC2007BL", "Prix": "337.00", "# Produit Thermostat intégré": "", "Prix": "", "Longueur": "34 5/8", "Poids": "24"},
+        {"Volts": "600", "Watts": "1000", "# Produit Sans thermostat": "ONC1006BL", "Prix": "271.00", "# Produit Thermostat intégré": "", "Prix": "", "Longueur": "23 9/16", "Poids": "16.7"},
+        {"Volts": "600", "Watts": "1500", "# Produit Sans thermostat": "ONC1506BL", "Prix": "299.00", "# Produit Thermostat intégré": "", "Prix": "", "Longueur": "29 1/16", "Poids": "20"},
+        {"Volts": "600", "Watts": "2000", "# Produit Sans thermostat": "ONC2006BL", "Prix": "337.00", "# Produit Thermostat intégré": "", "Prix": "", "Longueur": "34 5/8", "Poids": "24"}
+      ]
+    },
+    {
+      "title": "Options",
+      "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+      "rows": [
+        {"# Produit En trousse": "KIT-ONC-TRIAC-347", "# Produit Installée en usine*": "TRIAC", "Prix": "77.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."},
+        {"# Produit En trousse": "KIT-ONC-TRIAC-347T", "# Produit Installée en usine*": "TRIACT", "Prix": "103.00", "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 277V, 347V"},
+        {"# Produit En trousse": "KIT-ONC-TRIAC-600", "# Produit Installée en usine*": "TRIAC", "Prix": "139.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."}
+      ]
+    }
+  ]
+}
