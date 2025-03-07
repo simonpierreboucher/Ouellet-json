@@ -1,0 +1,92 @@
+{
+  "title": "OCT Convecteur contemporain",
+  "images": [
+    "[Image de OCT Blanc]",
+    "[Image de OCT Charcoal métallique]",
+    "[Image de Thermostat]"
+  ],
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: blanc, charcoal métallique.",
+        "Optionnelles (surcharge applicable): amande, argent étoilé, bronze, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "240/208V, 50/60 Hz, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Acier de calibre 20.",
+        "Sortie d'air chaud à effet propulsif, qui dirige l'air vers le centre de la pièce.",
+        "Grilles à louvres limitant l'insertion de petits objets, recouvertes d'une peinture à faible porosité lavable.",
+        "Protection thermique à réenclenchement automatique."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "2 éléments monobloc en aluminium, silencieux."
+      ]
+    },
+    {
+      "heading": "Densité",
+      "details": [
+        "700W/pi (2320W/m)."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat non programmable intégré (modèles -THO). 1"
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation au mur à 4 po (102 mm) minimum du plancher et d'un mur adjacent.",
+        "Montage en surface rapide avec support de fixation mural inclus."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices.",
+        "(La garantie est valide seulement si l'appareil est contrôlé par un thermostat électronique pulsant proportionnel avec un cycle maximum de 15 secondes.)"
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, sous-sol."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles",
+      "headers": ["Watts", "Volts", "# Produit Sans thermostat¹", "Prix", "# Produit Thermostat intégré non programmable", "Prix", "Longueur", "Poids"],
+      "rows": [
+        {"Watts": "500/375", "Volts": "240/208", "# Produit Sans thermostat¹": "OCT0500", "Prix": "286.00", "# Produit Thermostat intégré non programmable": "OCT0500-THO", "Prix": "344.00", "Longueur": "18", "Poids": "13"},
+        {"Watts": "750/563", "Volts": "240/208", "# Produit Sans thermostat¹": "OCT0750", "Prix": "330.00", "# Produit Thermostat intégré non programmable": "OCT0750-THO", "Prix": "388.00", "Longueur": "20 3/4", "Poids": "15.5"},
+        {"Watts": "1000/750", "Volts": "240/208", "# Produit Sans thermostat¹": "OCT1000", "Prix": "357.00", "# Produit Thermostat intégré non programmable": "OCT1000-THO", "Prix": "415.00", "Longueur": "23 9/16", "Poids": "16.7"},
+        {"Watts": "1250/938", "Volts": "240/208", "# Produit Sans thermostat¹": "OCT1250", "Prix": "381.00", "# Produit Thermostat intégré non programmable": "OCT1250-THO", "Prix": "439.00", "Longueur": "26 5/16", "Poids": "18.7"},
+        {"Watts": "1500/1125", "Volts": "240/208", "# Produit Sans thermostat¹": "OCT1500", "Prix": "404.00", "# Produit Thermostat intégré non programmable": "OCT1500-THO", "Prix": "462.00", "Longueur": "29 1/16", "Poids": "20"},
+        {"Watts": "1750/1313", "Volts": "240/208", "# Produit Sans thermostat¹": "OCT1750", "Prix": "424.00", "# Produit Thermostat intégré non programmable": "OCT1750-THO", "Prix": "482.00", "Longueur": "31 7/8", "Poids": "22"},
+        {"Watts": "2000/1500", "Volts": "240/208", "# Produit Sans thermostat¹": "OCT2000", "Prix": "448.00", "# Produit Thermostat intégré non programmable": "OCT2000-THO", "Prix": "506.00", "Longueur": "34 5/8", "Poids": "24"}
+      ]
+    }
+  ]
+}
