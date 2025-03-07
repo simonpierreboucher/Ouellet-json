@@ -1,0 +1,116 @@
+{
+  "title": "OPP Plinthe électrique pour porte patio",
+  "image": "[Image de OPP Plinthe électrique pour porte patio]",
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: blanc, amande.",
+        "Optionnelles (surcharge applicable): argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "208V, 240/208V, 347V, 600V, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Construction robuste en acier de calibre 18 permettant d'utiliser la plinthe comme une marche.",
+        "Protection thermique linéaire à réenclenchement automatique."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.",
+        "Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique."
+      ]
+    },
+    {
+      "heading": "Densité",
+      "details": [
+        "Densité moyenne standard de 209W/pi."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat intégré en option, avec bouton de contrôle ou anti-vandale (installation du côté droit seulement).",
+        "Relais mécanique et électronique en option (installation du côté droit seulement)."
+        "Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.",
+        "Variété d'accessoires pour l'installation en continu en option.",
+        "Trousse de piédestals en option."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "3 ans contre tous vices.",
+        "10 ans sur l'élément."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Porte patio, baie vitrée, édifice commercial, immeuble de bureaux, condos, restaurant."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles à densité moyenne standard de 209W/pi",
+      "headers": ["Watts", "Watts 240/208V", "# Produit", "Prix", "240/208V", "347V", "600V", "Longueur", "Poids"],
+      "rows": [
+        {"Watts": "500", "Watts 240/208V": "500/375", "# Produit": "OPP0508", "Prix": "OPP0507", "240/208V": "OPP0500", "347V": "447.00", "600V": "", "Longueur": "33 1/2", "Poids": "13.0"},
+        {"Watts": "750", "Watts 240/208V": "750/563", "# Produit": "OPP0758", "Prix": "OPP0757", "240/208V": "OPP0750", "347V": "487.00", "600V": "OPP0756", "Longueur": "48", "Poids": "17.0"},
+        {"Watts": "1000", "Watts 240/208V": "1000/750", "# Produit": "OPP1008", "Prix": "OPP1007", "240/208V": "OPP1000", "347V": "512.00", "600V": "OPP1006", "Longueur": "60", "Poids": "20.0"},
+        {"Watts": "1250", "Watts 240/208V": "1250/938", "# Produit": "OPP1258", "Prix": "OPP1257", "240/208V": "OPP1250", "347V": "607.00", "600V": "OPP1256", "Longueur": "72", "Poids": "26.0"},
+        {"Watts": "1500", "Watts 240/208V": "1500/1125", "# Produit": "OPP1508", "Prix": "OPP1507", "240/208V": "OPP1500", "347V": "644.00", "600V": "OPP1506", "Longueur": "86 3/4", "Poids": "31.0"},
+        {"Watts": "1750", "Watts 240/208V": "1750/1313", "# Produit": "OPP1758", "Prix": "OPP1757", "240/208V": "OPP1750", "347V": "682.00", "600V": "OPP1756", "Longueur": "100", "Poids": "38.0"},
+        {"Watts": "2000", "Watts 240/208V": "2000/1500", "# Produit": "OPP2008", "Prix": "OPP2007", "240/208V": "OPP2000", "347V": "718.00", "600V": "OPP2006", "Longueur": "113 5/16", "Poids": "41.0"}
+      ]
+    },
+    {
+      "title": "Options",
+      "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+      "rows": [
+        {"# Produit En trousse": "BD", "# Produit Installée en usine*": "", "Prix": "+10%", "Description": "Finition unie du dos de l'appareil"},
+        {"# Produit En trousse": "KIT-OPP-CIBR", "# Produit Installée en usine*": "", "Prix": "181.00", "Description": "Coin (intérieur et extérieur), 4 po (102 mm). Boîte de relais."},
+        {"# Produit En trousse": "KIT-OPP-JT", "# Produit Installée en usine*": "", "Prix": "116.00", "Description": "Joint de finition, 2 po (51 mm)"},
+        {"# Produit En trousse": "KIT-OPP-JT-PE", "# Produit Installée en usine*": "", "Prix": "181.00", "Description": "Joint contour de finition pour unité avec piédestals, 2 po (51 mm)"},
+        {"# Produit En trousse": "KIT-OPP-PE", "# Produit Installée en usine*": "", "Prix": "240.00", "Description": "Trousse de piédestals ronds (2), 3 po (76 mm)"},
+        {"# Produit En trousse": "KIT-OPP-PEC", "# Produit Installée en usine*": "", "Prix": "240.00", "Description": "Trousse de piédestals carrés (2), 2 po (51 mm)"},
+        {"# Produit En trousse": "KIT-OPP-R-3471", "# Produit Installée en usine*": "R¹", "Prix": "311.00", "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 18A à 347V"},
+        {"# Produit En trousse": "KIT-OPP-R-6001", "# Produit Installée en usine*": "R¹", "Prix": "311.00", "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"},
+        {"# Produit En trousse": "KIT-OPP-RT-2081", "# Produit Installée en usine*": "RT¹", "Prix": "329.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"},
+        {"# Produit En trousse": "KIT-OPP-RT-2401", "# Produit Installée en usine*": "RT¹", "Prix": "329.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"},
+        {"# Produit En trousse": "KIT-OPP-RT-3471", "# Produit Installée en usine*": "RT¹", "Prix": "329.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"},
+        {"# Produit En trousse": "KIT-OPP-RT-6001,2", "# Produit Installée en usine*": "RT1,2", "Prix": "329.00", "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)"},
+        {"# Produit En trousse": "OPP-SV-XX", "# Produit Installée en usine*": "", "Prix": "Sur demande", "Description": "Boîtier vide longueur de XX mm (minimum: 154 mm, maximum : 2879 mm)"},
+        {"# Produit En trousse": "KIT-OPP-TB11", "# Produit Installée en usine*": "TB11", "Prix": "256.00", "Description": "Thermostat unipolaire: 30A à 120V, 208V, 240V - 15A à 347V, 600V"},
+        {"# Produit En trousse": "KIT-OPP-TB21,3", "# Produit Installée en usine*": "TB21,3", "Prix": "264.00", "Description": "Thermostat bipolaire: 30A à 120V, 208V, 240V - 15A à 347V, 600V"},
+        {"# Produit En trousse": "KIT-OPP-TB1-AV¹", "# Produit Installée en usine*": "TB1AV¹", "Prix": "256.00", "Description": "Thermostat unipolaire, anti-vandale: 30A à 120V, 208V, 240V - 15A à 347V, 600V"},
+        {"# Produit En trousse": "KIT-OPP-TB2-AV1,3", "# Produit Installée en usine*": "TB2AV1,3", "Prix": "264.00", "Description": "Thermostat bipolaire, anti-vandale: 30A à 120V, 208V, 240V - 15A à 347V, 600V"},
+        {"# Produit En trousse": "KIT-OPP-TRIAC-3471", "# Produit Installée en usine*": "TRIAC¹", "Prix": "128.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 10A max. à 347V max."},
+        {"# Produit En trousse": "KIT-OPP-TRIAC-347T¹", "# Produit Installée en usine*": "TRIACT¹", "Prix": "184.00", "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 10A max. à 208V, 240V, 347V"},
+        {"# Produit En trousse": "KIT-OPP-TRIAC-6001", "# Produit Installée en usine*": "TRIAC¹", "Prix": "241.00", "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."}
+      ]
+    }
+  ]
+}
