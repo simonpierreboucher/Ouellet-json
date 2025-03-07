@@ -1,0 +1,97 @@
+{
+  "title": "OVE Ventilo-convecteur de style européen pour salle de bain",
+  "images": [
+    "[Image de OVE-TM]",
+    "[Image de OVE-T]",
+    "[Image de OVE]"
+  ],
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standards: blanc, amande.",
+        "Optionnelles (surcharge applicable): argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.",
+        "Couleurs sur mesure disponibles sur demande."
+      ]
+    },
+    {
+      "heading": "Finition",
+      "details": [
+        "Standard: peinture à la poudre d'époxy/polyester.",
+        "Optionnelle: acier inoxydable (les grilles et le dos de l'appareil sont peints en noir)."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "120V, 240/208V, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Acier de calibre 20 ou acier inoxydable de calibre 22.",
+        "Sortie d'air chaud à effet propulsif, qui dirige l'air vers le centre de la pièce.",
+        "Grilles à lames limitant l'insertion de petits objets, recouvertes d'une peinture à faible porosité lavable et anti-jaunissement.",
+        "Protection thermique à réenclenchement automatique."
+      ]
+    },
+    {
+      "heading": "Ventilateur",
+      "details": [
+        "Ventilateur à cage d'écureuil ultra silencieux.",
+        "Moteur lubrifié à vie."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Fil tissé en alliage nickel-chrome protégé par des isolateurs en mica.",
+        "Élément produisant une chaleur instantanée."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Thermostat à bulbe (modèles -T et -TM).",
+        "Minuterie mécanique, 0-60 minutes (modèle -TM).",
+        "Note: Si un thermostat électronique mural est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation au mur à 12 po (306 mm) minimum du plancher.",
+        "Montage en surface sans adaptateur ou encastré dans une structure de mur en 2 po X 3 po.",
+        "Installation et raccordement rapides grâce aux trous de fixation et aux débouchures (vis de fixation incluses)."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Vestibule, salle d'eau, salle à manger-cuisine, salle familiale, corridor."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles",
+      "headers": ["Watts", "Volts", "# Produit", "Prix Modèles standards", "Prix Acier inoxydable", "Ib", "kg"],
+      "rows": [
+        {"Watts": "1500", "Volts": "120", "# Produit": "OVE15021", "Prix Modèles standards": "446.00", "Prix Acier inoxydable": "572.00", "Ib": "14.0", "kg": "6.4"},
+        {"Watts": "1500", "Volts": "120", "# Produit": "OVE1502-T", "Prix Modèles standards": "513.00", "Prix Acier inoxydable": "655.00", "Ib": "14.0", "kg": "6.4"},
+        {"Watts": "1500", "Volts": "120", "# Produit": "OVE1502-TM", "Prix Modèles standards": "556.00", "Prix Acier inoxydable": "710.00", "Ib": "14.0", "kg": "6.4"},
+        {"Watts": "1500/1125", "Volts": "240/208", "# Produit": "OVE15001", "Prix Modèles standards": "377.00", "Prix Acier inoxydable": "482.00", "Ib": "14.0", "kg": "6.4"},
+        {"Watts": "1500/1125", "Volts": "240/208", "# Produit": "OVE1500-T", "Prix Modèles standards": "433.00", "Prix Acier inoxydable": "557.00", "Ib": "14.0", "kg": "6.4"},
+        {"Watts": "1500/1125", "Volts": "240/208", "# Produit": "OVE1500-TM2", "Prix Modèles standards": "471.00", "Prix Acier inoxydable": "602.00", "Ib": "14.0", "kg": "6.4"},
+        {"Watts": "1500/1125", "Volts": "240/208", "# Produit": "OVE1500BL-TM3", "Prix Modèles standards": "306.00", "Prix Acier inoxydable": "", "Ib": "14.0", "kg": "6.4"}
+      ]
+    }
+  ]
+}
