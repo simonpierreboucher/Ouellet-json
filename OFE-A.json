@@ -1,0 +1,119 @@
+{
+  "title": "OFE-A Fournaise électrique Avantage",
+  "image": "[Image de OFE-A Fournaise électrique Avantage]",
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standard: gris."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "240/208V, 1 phase."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Boîtier en acier complètement isolé pour une diminution des pertes de chaleur et du bruit.",
+        "Panneaux d'accès en deux sections facilitant l'accessibilité aux composantes."
+      ]
+    },
+    {
+      "heading": "Ventilateur",
+      "details": [
+        "Ventilateur de qualité supérieure, équilibré pour un fonctionnement optimal et silencieux."
+      ]
+    },
+    {
+      "heading": "Moteur",
+      "details": [
+        "Moteur standard (PSC), lubrifié à vie.",
+        "Moteur à vitesse variable (ECM) à commande électronique, lubrifié à vie.",
+        "Les deux types de moteurs sont montés sur des supports en caoutchouc afin de réduire au maximum les risques de bruits et de vibrations.",
+        "Relais et carte de circuits imprimés contrôlant le fonctionnement automatique du moteur et permettant l'ajout d'un climatiseur ou d'une pompe à chaleur."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Fils hélicoïdaux en alliage nickel-chrome 4kW et 5kW robustes, fiables et assurant un meilleur transfert de chaleur et moins de restriction au passage de l'air.",
+        "Éléments chauffants remplaçables individuellement."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Protection thermique à réenclenchement automatique.",
+        "Éléments activés à intervalles progressifs par une carte de circuits imprimés bas voltage muni de carte redresseur de courant et temporisateur afin d'éviter les surcharges électriques.",
+        "Transformateur robuste de 24VAC qui alimente les relais et contrôles.",
+        "Disjoncteurs intégrés à réenclenchement manuel en façade.",
+        "Témoin lumineux indiquant une demande de chauffage du thermostat.",
+        "Interrupteur «Sélecteur de puissance» : «Basse» ou «Haute».",
+        "Interrupteur «Sélecteur de ventilateur» : «Marche» ou «Arrêt».",
+        "Compatible avec un thermostat à 1 ou 2 stages avec ou sans unité externe.",
+        "Bornier d'alimentation 120V permettant l'ajout d'accessoires tels qu'un humidificateur et un filtre électronique (jusqu'à un maximum de 2A)."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation multi-positions avec retour d'air sur les côtés, l'arrière ou le dessous.",
+        "Approuvée pour une installation contre les surfaces combustibles sans aucun dégagement."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Pour la maison, le bureau ou le chalet, aussi approuvée pour installation dans les maisons mobiles. S'installe n'importe où : sous-sol, placard, vide sanitaire ou tout autre espace libre."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles avec moteur standard (PSC)¹",
+      "headers": ["# Produit", "Volts (1 ph) 2 fils", "kW (BTU/hr)", "Amp. incluant moteur", "Moteur HP", "Pression statique à 0.5\" C.E. Vitesse du moteur²", "Poids"],
+      "rows": [
+        {"# Produit": "OFEA10000", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "10.0 (34120)/7.5 (25628)", "Amp. incluant moteur": "44.0/38.2", "Moteur HP": "1/3", "Pression statique à 0.5\" C.E. Vitesse du moteur²": "Basse", "Poids": "105"},
+        {"# Produit": "OFEA15000", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "15.0 (51180)/11.3 (38442)", "Amp. incluant moteur": "64.7/56.1", "Moteur HP": "1/3", "Pression statique à 0.5\" C.E. Vitesse du moteur²": "Basse", "Poids": "105"},
+        {"# Produit": "OFEA18000", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "18.0 (61420)/13.5 (46130)", "Amp. incluant moteur": "78.4/68.0", "Moteur HP": "1/3", "Pression statique à 0.5\" C.E. Vitesse du moteur²": "Basse", "Poids": "105"},
+        {"# Produit": "OFEA20000", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "20.0 (68240)/15.0 (51256)", "Amp. incluant moteur": "85.4/74.1", "Moteur HP": "1/3", "Pression statique à 0.5\" C.E. Vitesse du moteur²": "Basse", "Poids": "105"},
+        {"# Produit": "OFEA23000-1Η", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "23.0 (78480)/17.3 (58944)", "Amp. incluant moteur": "102.4/88.7", "Moteur HP": "1", "Pression statique à 0.5\" C.E. Vitesse du moteur²": "Moyenne/Basse", "Poids": "105"},
+        {"# Produit": "OFEA25000-1Η", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "25.0 (85360)/18.8 (64070)", "Amp. incluant moteur": "109.4/94.8", "Moteur HP": "1", "Pression statique à 0.5\" C.E. Vitesse du moteur²": "Moyenne/Basse", "Poids": "105"},
+        {"# Produit": "OFEA27000-1Η", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "27.0 (92130)/20.3 (69195)", "Amp. incluant moteur": "119.5/103.6", "Moteur HP": "1", "Pression statique à 0.5\" C.E. Vitesse du moteur²": "Moyenne/Basse", "Poids": "105"},
+        {"# Produit": "OFEA30000-1Η", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "30.0 (102432)/22.5 (76884)", "Amp. incluant moteur": "130.2/112.8", "Moteur HP": "1", "Pression statique à 0.5\" C.E. Vitesse du moteur²": "Moyenne/Basse", "Poids": "105"}
+      ]
+    },
+    {
+      "title": "Modèles avec moteur à vitesse variable (ECM)¹",
+      "headers": ["# Produit", "Volts (1 ph) 2 fils", "kW (BTU/hr)", "Amp. incluant moteur", "Moteur HP", "Vitesse du moteur", "Poids"],
+      "rows": [
+        {"# Produit": "OFEA10000-VV", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "10.0 (34120)/7.5 (25628)", "Amp. incluant moteur": "43.7/38.6", "Moteur HP": "1/2", "Vitesse du moteur": "Variable", "Poids": "105"},
+        {"# Produit": "OFEA15000-VV", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "15.0 (51180)/11.3 (38442)", "Amp. incluant moteur": "64.4/56.5", "Moteur HP": "1/2", "Vitesse du moteur": "Variable", "Poids": "105"},
+        {"# Produit": "OFEA18000-VV", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "18.0 (61420)/13.5 (46130)", "Amp. incluant moteur": "78.1/68.4", "Moteur HP": "1/2", "Vitesse du moteur": "Variable", "Poids": "105"},
+        {"# Produit": "OFEA20000-VV", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "20.0 (68240)/15.0 (51256)", "Amp. incluant moteur": "85.1/74.5", "Moteur HP": "1/2", "Vitesse du moteur": "Variable", "Poids": "105"},
+        {"# Produit": "OFEA23000-1HVV", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "23.0 (78480)/17.3 (58944)", "Amp. incluant moteur": "101.7/89.6", "Moteur HP": "1", "Vitesse du moteur": "Variable", "Poids": "105"},
+        {"# Produit": "OFEA25000-1HVV", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "25.0 (85360)/18.8 (64070)", "Amp. incluant moteur": "108.7/95.7", "Moteur HP": "1", "Vitesse du moteur": "Variable", "Poids": "105"},
+        {"# Produit": "OFEA27000-1HVV", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "27.0 (92130)/20.3 (69195)", "Amp. incluant moteur": "118.8/104.5", "Moteur HP": "1", "Vitesse du moteur": "Variable", "Poids": "105"},
+        {"# Produit": "OFEA30000-1HVV", "Volts (1 ph) 2 fils": "240/208", "kW (BTU/hr)": "30.0 (102432)/22.5 (76884)", "Amp. incluant moteur": "129.5/113.7", "Moteur HP": "1", "Vitesse du moteur": "Variable", "Poids": "105"}
+      ]
+    },
+    {
+      "title": "Options",
+      "headers": ["# Produit En trousse", "Description"],
+      "rows": [
+        {"# Produit En trousse": "OFE-SO2", "Description": "Socle de fournaise pour installation en débit descendant"},
+        {"# Produit En trousse": "OFE-AK2", "Description": "Raccord d'installation pour conduit 17 po X 17 po"},
+        {"# Produit En trousse": "OFE-TM", "Description": "Outil de diagnostic pour moteur ECM"}
+      ]
+    }
+  ]
+}
