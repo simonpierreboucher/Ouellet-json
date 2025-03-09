@@ -1,0 +1,92 @@
+{
+  "title": "OFE-B Fournaise électrique Nortron première génération",
+  "image": "[Image de OFE-B Fournaise électrique Nortron première génération]",
+  "features": [
+    {
+      "heading": "Couleur",
+      "details": [
+        "Standard : gris."
+      ]
+    },
+    {
+      "heading": "Tension",
+      "details": [
+        "208V, 3 phases."
+      ]
+    },
+    {
+      "heading": "Construction",
+      "details": [
+        "Un seul panneau donnant accès à toutes les composantes internes."
+      ]
+    },
+    {
+      "heading": "Ventilateur",
+      "details": [
+        "Ventilateur de qualité supérieure, équilibré pour un fonctionnement optimal et silencieux."
+      ]
+    },
+    {
+      "heading": "Moteur",
+      "details": [
+        "Moteur standard (PSC), lubrifié à vie et monté sur des supports en caoutchouc afin de réduire au maximum les risques de bruits et de vibrations.",
+        "Ensemble de synchronisation pour un fonctionnement avec un système de ventilation de salle de bain et un ventilateur récupérateur de chaleur (en option)."
+      ]
+    },
+    {
+      "heading": "Élément",
+      "details": [
+        "Fils hélicoïdaux en alliage nickel-chrome robustes, fiables et assurant un meilleur transfert de chaleur et moins de restriction au passage de l'air.",
+        "Éléments chauffants remplaçables individuellement.",
+        "Protection thermique à réenclenchement automatique.",
+        "Éléments activés par des séquenceurs électromécaniques."
+      ]
+    },
+    {
+      "heading": "Régulation",
+      "details": [
+        "Transformateur robuste de 24VAC qui alimente les relais et contrôles.",
+        "Disjoncteurs intégrés à réenclenchement manuel en façade.",
+        "Interrupteur «Sélecteur de saison» : «Douce» ou «Froide».",
+        "Interrupteur «Mode recirculation» : «Marche» ou «Arrêt».",
+        "Compatible avec un thermostat à 1 ou 2 stages avec ou sans unité externe."
+      ]
+    },
+    {
+      "heading": "Installation",
+      "details": [
+        "Installation multi-positions avec retour d'air sur les côtés, l'arrière ou le dessous.",
+        "Approuvée pour une installation contre les surfaces combustibles sans aucun dégagement."
+      ]
+    },
+    {
+      "heading": "Garantie",
+      "details": [
+        "5 ans contre tous vices."
+      ]
+    },
+    {
+      "heading": "Application",
+      "details": [
+        "Pour la maison, le bureau ou le chalet, aussi approuvée pour installation dans les maisons mobiles. S'installe n'importe où : sous-sol, placard, vide sanitaire ou tout autre espace libre."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modèles 208V avec moteur standard (PSC)¹",
+      "headers": ["# Produit", "Volts (3 ph) 3 fils", "kW (BTU/hr)", "Amp. incluant moteur", "Moteur HP", "Pression statique à 0.2\" C.E. Vitesse du moteur¹", "Poids"],
+      "rows": [
+        {"# Produit": "83B13-A", "Volts (3 ph) 3 fils": "208", "kW (BTU/hr)": "13.5 (46105)", "Amp. incluant moteur": "42.0", "Moteur HP": "1/3", "Pression statique à 0.2\" C.E. Vitesse du moteur¹": "Moyenne", "Poids": "105"},
+        {"# Produit": "83B24-A", "Volts (3 ph) 3 fils": "208", "kW (BTU/hr)": "24.0 (81964)", "Amp. incluant moteur": "70.0", "Moteur HP": "1/3", "Pression statique à 0.2\" C.E. Vitesse du moteur¹": "Moyenne", "Poids": "115"}
+      ]
+    },
+    {
+      "title": "Option",
+      "headers": ["# Produit En trousse", "Description"],
+      "rows": [
+        {"# Produit En trousse": "FIK", "Description": "Ensemble de synchronisation pour système de ventilation"}
+      ]
+    }
+  ]
+}
